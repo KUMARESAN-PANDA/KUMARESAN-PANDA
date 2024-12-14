@@ -5,8 +5,8 @@ I’m a passionate developer with experience in Python, C++, and SQL, as well as
 ** How to reach me:**kumaresan.learner@gmail.com
 
 ### Key Skills:
-- **Programming Languages:** Python, C++  
-- **Frameworks:** Flask, FastAPI  
+- **Programming Languages:** Python, C++ ,Javascript,Java 
+- **Frameworks:** Flask, FastAPI ,React,Django,Node.js 
 - **Databases:** SQL (Oracle), PostgreSQL, MongoDB  
 - **Cloud:** AWS  
 - **Web Development:** HTML, CSS, JavaScript, Tailwind CSS  
